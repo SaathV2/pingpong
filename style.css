@@ -1,0 +1,12 @@
+#game{
+    float: center;
+}
+
+h3{
+    font-family: fantasy;
+    color: rgb(4, 138, 247) ;
+}
+
+body{
+    background-size: cover;
+}
